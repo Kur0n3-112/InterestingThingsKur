@@ -1,10 +1,10 @@
-#+title: Cosas Interesantes
+#+title: Kur's Interesting Things
 
 * TABLES OF CONTENTS :toc:
-- [[#metodos-de-estudio][Metodos de estudio]]
+- [[#study-methods][Study Methods.]]
   - [[#richard-feynman][Richard Feynman]]
 
-* Metodos de estudio
+* Study Methods.
 ** Richard Feynman
 The method that created Feynman for studing is pretty simple, just takes this few steps:
 1 - Select a concep to learn.
