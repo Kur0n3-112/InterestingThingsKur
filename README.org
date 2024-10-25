@@ -1,0 +1,35 @@
+#+title: Cosas Interesantes
+
+* TABLES OF CONTENTS :toc:
+- [[#metodos-de-estudio][Metodos de estudio]]
+  - [[#richard-feynman][Richard Feynman]]
+
+* Metodos de estudio
+** Richard Feynman
+The method that created Feynman for studing is pretty simple, just takes this few steps:
+1 - Select a concep to learn.
+2 - Teach it like to someone like if it is for a child (make it super simple).
+3 - Review and redefine your understading about the theme.
+4 - Organize your notes and revisit them regularly.
+
+1 - Select a concep to learn.
+First read the theme or the concep you want to learn, read it from the beginning to the end of it, dont skip anything.
+Take out a blank sheet of paper. And write everything you rememeber.
+Do this until you think you understand well what you are learning. After you are finish move on to step 2.
+
+2 - Teach it like to someone like if it is for a child (make it super simple).
+If you can explain it ot a 12 year old child, it means that you understand the topic pretty well because, you can take something "complex" and transfrom it to simple words. Simplicity reveals a depth of understading, while jargon(big talk) often conceals ignorance.
+
+3 - Review and redefine your understading.
+After you explain it, write down that explanation. The act of writing essays and learning from them. In fact, this is the most important part of the learning process. The act of writting down our knowledge with our own words is how we know we understand something and teach us what is the things that we must learn.
+"Clear writing gives poor thinking no where to hide."
+Ensure your notes are free of any jargon(big talk) or something that sounds confusing. If something sounds confusing, it needs refinement.
+
+4 - Organize your notes and revisit them regularly.
+If you can write your notes it is recomendable that you show them to someone else and ask what they think about them. And you would ponder this three questions: How effective was your explanation? What questions did they ask? What parts did they get confused about?
+When you are happy with your understading about the studied topic, take that knowledge and put it in a paper sheet and save it in a binder.
+Following this for everything you learn gives you a binder full of knowledge and you should review it a couple of times a year.
+
+HELPFULL LINKS:
+- [[https://fs.blog/feynman-technique/][Feynman Studie Technique - fs.blog]]
+- [[https://www.youtube.com/watch?v=5PV7ATxW6hI&t=354s][Este Hombre Inventó un Método para Aprender MUY Rápido (puedes copiarle) - Youtube]]
